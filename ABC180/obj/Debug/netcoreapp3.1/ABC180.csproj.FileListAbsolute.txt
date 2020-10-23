@@ -1,0 +1,12 @@
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.csprojAssemblyReference.cache
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.AssemblyInfoInputs.cache
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.AssemblyInfo.cs
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.csproj.CoreCompileInputs.cache
+/Users/tamaki/Documents/AtCoder/ABC180/bin/Debug/netcoreapp3.1/ABC180.deps.json
+/Users/tamaki/Documents/AtCoder/ABC180/bin/Debug/netcoreapp3.1/ABC180.runtimeconfig.json
+/Users/tamaki/Documents/AtCoder/ABC180/bin/Debug/netcoreapp3.1/ABC180.runtimeconfig.dev.json
+/Users/tamaki/Documents/AtCoder/ABC180/bin/Debug/netcoreapp3.1/ABC180.dll
+/Users/tamaki/Documents/AtCoder/ABC180/bin/Debug/netcoreapp3.1/ABC180.pdb
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.dll
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.pdb
+/Users/tamaki/Documents/AtCoder/ABC180/obj/Debug/netcoreapp3.1/ABC180.genruntimeconfig.cache
